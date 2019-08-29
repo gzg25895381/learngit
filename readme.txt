@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 creating a new branch dev.
 create a new branch is quick and simple.
+this is no fast forward.
